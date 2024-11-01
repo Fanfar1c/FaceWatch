@@ -39,4 +39,4 @@ SpeedWatch использует **OpenCV** и **YOLOv8** для обнаруже
 - **YOLOv8**
 
 
-`Есть вопросы пишите  [Telegram](https://t.me/dastan4row/)`
+`Есть вопросы пишите`  [Telegram](https://t.me/dastan4row/)
