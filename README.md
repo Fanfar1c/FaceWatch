@@ -37,3 +37,6 @@ SpeedWatch использует **OpenCV** и **YOLOv8** для обнаруже
 - **Python 3.8+**
 - **OpenCV**
 - **YOLOv8**
+
+
+`Есть вопросы пишите  [Telegram](https://t.me/dastan4row/)`
